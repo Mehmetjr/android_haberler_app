@@ -14,12 +14,12 @@ Bu projede, Html Parser ve Jsoup ile internet sitesinden verileri çekip listvie
 # Proje Resimleri
   
  <p> 
-  <a href="https://github.com/Mehmetjr/android_biyografi_app/blob/main/images/biyografi1.png" target="_blank">
-  <img src="https://github.com/Mehmetjr/android_biyografi_app/blob/main/images/biyografi1.png" width="200" style="max-width:100;">
+  <a href="https://github.com/Mehmetjr/android_haberler_app/blob/main/images/news1.png" target="_blank">
+  <img src="https://github.com/Mehmetjr/android_haberler_app/blob/main/images/news1.png" width="200" style="max-width:100;">
   </a>
   <p> 
-  <a href="https://github.com/Mehmetjr/android_biyografi_app/blob/main/images/biyografi2.png" target="_blank">
-  <img src="https://github.com/Mehmetjr/android_biyografi_app/blob/main/images/biyografi2.png" width="200" style="max-width:100;">
+  <a href="https://github.com/Mehmetjr/android_haberler_app/blob/main/images/news2.png" target="_blank">
+  <img src="https://github.com/Mehmetjr/android_haberler_app/blob/main/images/news2.png" width="200" style="max-width:100;">
   </a>
   </p>
   
