@@ -1,5 +1,5 @@
-# android_haberler_app
-Android Haberler App
+# Android Haberler App
+
 <p>
 Bu projede, Html Parser ve Jsoup ile internet sitesinden verileri çekip listview ile listeledim.Listede istenen habere tıklanıldığında webwiew ile haberin detayları açılmaktadır
 # Uygulama Özellikleri
